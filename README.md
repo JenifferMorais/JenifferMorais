@@ -34,7 +34,7 @@ Olá, sou Jeniffer, tenho 25 anos. Tenho curso técnico em informática pra Inte
 
  ## 💼 Projetos em Destaque
 
-### 🚀 [Sales API](https://github.com/JenifferMorais/sales-api) ⭐ Projeto Principal
+### 🚀 [Sales API](https://github.com/JenifferMorais/sales-api) ⭐
 Sistema completo de gestão de vendas com backend Quarkus e frontend Angular.
 - **Tech Stack:** Java 21, Quarkus 3.17, Angular 19, PostgreSQL 17, Docker
 - **Features:**
