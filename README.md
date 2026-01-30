@@ -23,13 +23,29 @@ Olá, sou Jeniffer, tenho 25 anos. Tenho curso técnico em informática pra Inte
 
  ### Conceitos
  - Programação Orientada a Objetos (OOP)
- - Padrão MVC (Model-View-Controller)
+ - Spring e Quarkus
+ - Aplicação de Princípios do SOLID
+ - Autenticação JWT
+ - Padrão MVC (Model-View-Controller) e Hexagonal
  - Servlets & JSP
- - APIs REST
+ - APIs REST & Swagger/OpenAPI
+ - CI/CD & Docker
  - Integração com APIs de terceiros
 
  ## 💼 Projetos em Destaque
 
+### 🚀 [Sales API](https://github.com/JenifferMorais/sales-api) ⭐ Projeto Principal
+Sistema completo de gestão de vendas com backend Quarkus e frontend Angular.
+- **Tech Stack:** Java 21, Quarkus 3.17, Angular 19, PostgreSQL 17, Docker
+- **Features:**
+  - Gestão de clientes, produtos e vendas
+  - Dashboard com analytics em tempo real
+  - Autenticação JWT com segurança bcrypt
+  - API REST com documentação Swagger
+  - CI/CD com GitHub Actions
+  - Deploy automatizado no Render
+- **Destaques:** Arquitetura full stack moderna, containerização, DevOps completo
+  
  ### 🎥 [API YouTube](https://github.com/JenifferMorais/api-youtube)
  Projeto de TCC focado em extração e análise de comentários do YouTube.
  - **Tech Stack:** Python, YouTube Data API
@@ -50,17 +66,10 @@ Olá, sou Jeniffer, tenho 25 anos. Tenho curso técnico em informática pra Inte
  - **Tech Stack:** Java
  - **Destaques:** CRUD completo, interface intuitiva
 
- ## 📊 GitHub Stats
-
- ![Jeniffer's GitHub
- stats](https://github-readme-stats.vercel.app/api?username=JenifferMorais&show_icons=true&theme=radical)
-
- ![Top
- Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenifferMorais&layout=compact&theme=radical)
 
  ## 📫 Como me encontrar
 
- - 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/jeniffer-morais28/)
+ - 💼 LinkedIn: [https://www.linkedin.com/in/jeniffer-morais28/](https://www.linkedin.com/in/jeniffer-morais28/)
  - 📧 Email: jenimorais28@gmail.com
 
  ---
