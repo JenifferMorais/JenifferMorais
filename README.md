@@ -2,7 +2,7 @@
 
  ## Sobre mim
 
-Olá, sou Jeniffer, tenho 25 anos. Tenho curso técnico em informática pra Internet, sou formada em sistemas de informação, e finalizei recentemente uma pós em engenharia de software. Programo desde 2016 e atuo profissionalmente desde 2021. Minha especialidade é Java + Angular.
+Olá, sou Jeniffer, tenho 25 anos. Tenho curso técnico em informática pra Internet, sou formada em sistemas de informação, e finalizei recentemente uma pós em engenharia de software. Programo desde 2016 e atuo profissionalmente desde 2021. Minha especialidade é Java e C#/.NET + Angular.
 
  - 💻 Experiência com desenvolvimento backend e APIs
  - 🌱 Constantemente aprendendo novas tecnologias
